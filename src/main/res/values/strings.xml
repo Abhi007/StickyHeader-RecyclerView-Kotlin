@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TechDemoApp</string>
+    <string name="flowers">Flowers</string>
+    <string name="section">Section</string>
+</resources>
